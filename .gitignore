@@ -1,0 +1,9 @@
+# Ignore generated ARG output and common OS/editor files
+arg-output/
+*.json
+
+# Optional: ignore PowerShell module downloads and VSCode settings
+profile.ps1
+.vs/
+.vscode/
+*.log
